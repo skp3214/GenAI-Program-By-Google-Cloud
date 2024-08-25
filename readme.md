@@ -14,3 +14,4 @@
 - ## Intermediate: Gemini For Google Cloud Learning Path
 
   - [6. Gemini For Application Developers](/learning/6.md)
+  - [7. Gemini For Cloud Architects](/learning/7.md)
