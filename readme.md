@@ -11,3 +11,6 @@
   - [4. Prompt Design in Vertex AI](/learning/4.md)
   - [5. Responsible AI: Applying AI Principles with Google Cloud](/learning/5.md)
 
+- ## Intermediate: Gemini For Google Cloud Learning Path
+
+  - [6. Gemini For Application Developers](/learning/6.md)
